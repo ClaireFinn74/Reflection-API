@@ -14,6 +14,7 @@
 	Ensure you have JDepend downloaded first from the Reference link at the bottom of this README and follow the setting up procedure there.
   
 2. Go to Project --> Properties --> Add new Library --> JUnit
+
 	Choose **JUnit4** as I have a *TestCase* within my code that will **only work with this Version**
 
 ## HOW TO RUN MY CLASSES:
