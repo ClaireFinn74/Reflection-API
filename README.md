@@ -2,7 +2,7 @@
 
 ## HOW TO SETUP MY PROJECT:
 1. First, you should ensure you go to "help --> Install new Software" within Eclipse and be sure to add these sites:
-	-- SourceForge - http://metrics.sourceforge.net/update
+	-- SourceForge - http://metrics.sourceforge.net
 	Ensure you go to properties --> Metrics --> enable Metrics after adding this site.
     
 	-- JDepend - http://andrei.gmxhome.de/eclipse/
