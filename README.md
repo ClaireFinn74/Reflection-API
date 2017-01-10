@@ -2,12 +2,10 @@
 
 ## HOW TO SETUP MY PROJECT:
 1. First, you should ensure you go to "help --> Install new Software" within Eclipse and be sure to add these sites:
-
- --   SourceForge - http://metrics.sourceforge.net/update
-     
-    Ensure you go to properties --> Metrics --> enable Metrics after adding this sitE
+	-- SourceForge - http://metrics.sourceforge.net/update
+	Ensure you go to properties --> Metrics --> enable Metrics after adding this site.
     
--- JDepend - http://andrei.gmxhome.de/eclipse/
+	-- JDepend - http://andrei.gmxhome.de/eclipse/
 	This allows you to calculate Afferent and Efferent couplings within a Test Case in Eclipse.
 	
 	Ensure you have JDepend downloaded first from the Reference link at the bottom of this README and follow the setting up procedure there.
