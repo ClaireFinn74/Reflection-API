@@ -2,10 +2,13 @@
 
 ## HOW TO SETUP MY PROJECT:
 1. First, you should ensure you go to "help --> Install new Software" within Eclipse and be sure to add these sites:
+
 	-- SourceForge - http://metrics.sourceforge.net
+	
 	Ensure you go to properties --> Metrics --> enable Metrics after adding this site.
     
 	-- JDepend - http://andrei.gmxhome.de/eclipse/
+	
 	This allows you to calculate Afferent and Efferent couplings within a Test Case in Eclipse.
 	
 	Ensure you have JDepend downloaded first from the Reference link at the bottom of this README and follow the setting up procedure there.
@@ -34,7 +37,7 @@
 4. I create a class called *MetricsTest* and work with **JDepend** to check for *Afferent* and *Efferent* couplings for *railfence.jar* alone just to play around with **JDepend** a bit.
 
 
-**NOTE:** I have added functionality to deal with the fact that a user might not have a JAR to test just yet so I provide a default JAR, my railfence.jar from my Second Year project. Ensure you bring this JAR into eclipse when you bring in my classes. If you do not choose a JAR file by pressing the 'Browse' button, my code for reflecting the railfence.JAR classes will show up when you press the "Jar Info" button. You just simply enter a number into the console within the range 1-9 to see classes from railfence being reflected.
+**NOTE:** I have added functionality to deal with the fact that a user might not have a JAR to test just yet so I provide a *default JAR,* my *railfence.jar* from my Second Year project. Ensure you bring this JAR into eclipse when you bring in my classes. If you do not choose a JAR file by pressing the *'Browse'* button, my code for reflecting the *railfence.JAR* classes will show up when you press the *"Jar Info"* button. You just simply enter a number into the console within the range **1-9** to see classes from *railfence* being reflected.
 
 
 ## REFERENCES:
