@@ -40,7 +40,7 @@
 
 **NOTE:** I have added functionality to deal with the fact that a user might not have a JAR to test just yet so I provide a *default JAR,* my *railfence.jar* from my Second Year project. Ensure you bring this JAR into eclipse when you bring in my classes. If you do not choose a JAR file by pressing the *'Browse'* button, my code for reflecting the *railfence.JAR* classes will show up when you press the *"Jar Info"* button. You just simply enter a number into the console within the range **1-9** to see classes from *railfence* being reflected.
 
-** ANOTHER IMPORTANT NOTE: **
+**ANOTHER IMPORTANT NOTE:**
 
 While my Test case *(MetricsTest)* does not pass on running, it works with the rest of my code. I can get the test to **pass** if I make it's methods **void**, but then my code that actually tries to use *MetricsTest* within **Calculations** will error out as it needs the methods to be an **int** instead of **void**.
 
